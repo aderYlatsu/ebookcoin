@@ -27,6 +27,6 @@ module.exports = {
 
   rewards: {
     distance: 3000000,
-    offset: 60480
+    offset: 0 // 60480
   }
 }
